@@ -1,6 +1,8 @@
 Olá professor, decidi criar um jogo que randomiza os números até o sete.
 Nesse ReadMe irei explicar como jogar! 
+Também explicarei como abrir todos os arquivos em C#. 
 _____________________________________________________________________________________________________________
+Como Jogar:
 1 - Digite Seu Nome! 
 2 - Coloque o seu deposito! (OBS: O DEPOSITO TEM QUE SER NO MODELO AMERICANO. EX: 100.00) 
 3 - Aperte "s" para iniciar o jogo ou "n" para quebrar o código. 
@@ -9,3 +11,10 @@ ________________________________________________________________________________
 6 - para continuar jogando aperte "s" e para sair aperte "n". 
 7 - faça isso até zerar seu dinheiro ou até apertar para sair 
 8 - Agora o mais importante, se divirta! 
+_____________________________________________________________________________________________________________
+Arquivos em C#: 
+1- Em C# usamos a IDE Visual studio Community. 
+2 - As classes em C# estão separadas em arquivos, isso acontece, pois quando criamos a classe em C# ele faz a separação automaticamente. 
+3 - A main é a classe Program.cs, então quando for executar o arquivo precisa ser executado por ela. 
+4 - irei deixar uma foto de como deve ficar. 
+
